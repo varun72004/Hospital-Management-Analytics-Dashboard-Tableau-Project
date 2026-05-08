@@ -87,8 +87,7 @@ The project includes multiple healthcare-related datasets:
 
 ## 🔗 Connect With Me
 
-LinkedIn: [Add Your LinkedIn Link]  
-GitHub: [Add Your GitHub Link]
+LinkedIn: www.linkedin.com/in/varun-sharma-4525b1343 
 
 ---
 
